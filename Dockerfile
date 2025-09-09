@@ -1,0 +1,3 @@
+FROM oscarfonts/geoserver:latest
+
+
